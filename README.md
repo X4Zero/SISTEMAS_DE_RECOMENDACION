@@ -1,3 +1,3 @@
 # SISTEMAS_DE_RECOMENDACION
 
-Proyecto de la primersa semana en Hackspace
+Proyecto de la primera semana en Hackspace
